@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ovo-classic-games.github.io/sitemap.xml
