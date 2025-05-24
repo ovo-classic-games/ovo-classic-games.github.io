@@ -1,7 +1,7 @@
 {
   "name": "OvO Classic",
   "short_name": "OvO Unblocked",
-  "start_url": "http://ovo-classic-games.github.io/",
+  "start_url": "https://ovo-classic-games.github.io/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
